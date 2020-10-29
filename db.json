@@ -9,11 +9,13 @@
         }
     ],
     "info4studentMgr": [
-        "info": [
+        {
+        "info":[
             {
-                "title": "测试信息",
-                "detail": "测试信息的内容"
+            "title": "测试信息",
+            "detail": "测试信息的内容"
             }
         ]
+        }
     ]
 }
